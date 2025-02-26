@@ -60,12 +60,42 @@ p{
 .content{
     display: flex;
     flex-direction: row;    
+    margin: 50px;
+
 
 }
-.content-left,.content-right{
+.content-left{
     display: flex;
     width: 50%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+
+.content-right{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img {
+    margin: 50px;
+}
+
+.p-first{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-right: 40px;
+}
+
+.sign-up-first-section {
+    background-color: #3882F6;
+    color: white;
+    width: 100px;
+    height: 20px;
+    font-weight: 100;
+
 }
