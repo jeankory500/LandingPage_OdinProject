@@ -54,7 +54,7 @@ h1{
 
 p{
     font-size: 18px;
-    color: #E5E7EB;
+
 }
 
 .content{
@@ -139,6 +139,29 @@ h2 {
     text-align: center;
     font-size: 18px;
     color:black;
-    
 
+
+}
+
+.third-section{
+    text-align: center;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    
+}
+
+h3{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter; 
+
+}
+
+.p-third{
+    font-style: bold;
+    margin-left: 700px;
 }
