@@ -167,7 +167,7 @@ h3{
 }
 
 .last-div{
-    height: 300px;
+    height: 250px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -223,3 +223,22 @@ h4{
     border-radius: 5px;
     margin-top: 10px;
 }   
+
+.footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    height: 70px;
+    text-align: center;
+    font-size: 18px;
+}
+
+h5{
+    text-align: center;
+    margin-top: auto;
+
+}
+
+.last-h5{
+    padding-top: 40px;
+
+}
