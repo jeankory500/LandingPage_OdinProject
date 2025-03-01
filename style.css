@@ -128,15 +128,17 @@ h2 {
 
 .box-blue{
     border: 5px solid #3882F6;
-    padding: 25px;
     border-radius: 15px;
     width: 200px;
-    height:200px;
+    height: 200px;
+    justify-content: center;
     
 }
 
 .p-second{
     text-align: center;
     font-size: 18px;
+    color:black;
+    
 
 }
